@@ -12,3 +12,6 @@
  - Álgebra Linear
  - Cálculo
  - Probabilidade
+
+ ## Links
+ - https://towardsdatascience.com/your-first-neural-network-in-pytorch-725631ae0fc
